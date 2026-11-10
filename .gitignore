@@ -1,0 +1,15 @@
+.godot/
+tools/godot*
+tools/templates.tpz
+tools/wine-prefix/
+builds/
+*.log
+
+assets/audio/music.mp3
+assets/audio/music.mp3.import
+*.zip
+__pycache__/
+.env
+.env.*
+
+/Играть в SHIFT.sh
